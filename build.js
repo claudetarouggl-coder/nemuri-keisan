@@ -7,7 +7,7 @@ const { computeBedtimes, computeWaketimes } = require("./lib/sleepcalc");
 const { KAIMIN_GOODS } = require("./lib/affiliates");
 
 const BASE = "https://claudetarouggl-coder.github.io/nemuri-keisan/";
-const GA_ID = "";
+const GA_ID = "G-JG9K0GG6TS";
 const OUT = path.join(__dirname, "docs");
 const SITE_NAME = "何時に寝ればいい？睡眠サイクル計算";
 
